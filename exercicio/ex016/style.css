@@ -1,0 +1,29 @@
+@charset "UTI-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: linear-gradient(to right, #21D7FF, #57E80C);
+}
+main {
+     background-color: white;
+     border-radius: 10px;
+     box-shadow: 5px 5px 15px #301f18a1;
+     width: 600px;
+     padding: 10px;
+     margin: auto;
+    }
+h1 {
+    color: #3630FF;
+    text-align: center;
+    text-shadow: 1px 1px 1px  #1310588f;
+}    
+
+h2 {
+    color: #E80C34;
+}
+
+p {
+    text-align: justify;
+}
