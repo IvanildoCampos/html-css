@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background: black url(../back-tablet.jpg);
+    background: black url(../imagem/back-phone.jpg);
     background-size: cover;
     background-position: center center;
 }
